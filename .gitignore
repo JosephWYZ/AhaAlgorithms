@@ -1,5 +1,6 @@
-.settings
+.settings/
 bin/
 .project
 .classpath
 .DS_Store
+.idea/

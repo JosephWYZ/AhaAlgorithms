@@ -74,5 +74,7 @@ public class SortedList {
         list.add(100);
         list.add(34);
         list.print();
+        list.add(14);
+        list.print();
     }
 }
